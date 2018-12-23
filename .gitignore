@@ -1,0 +1,4 @@
+__pycache__
+venv
+csharp/Functions.Generated
+csharp/TES3MPSharp.dll
